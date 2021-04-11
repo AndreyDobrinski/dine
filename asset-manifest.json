@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/dine/static/css/main.81c5be23.chunk.css",
+    "main.js": "/dine/static/js/main.de79caac.chunk.js",
+    "main.js.map": "/dine/static/js/main.de79caac.chunk.js.map",
+    "runtime-main.js": "/dine/static/js/runtime-main.1aaad756.js",
+    "runtime-main.js.map": "/dine/static/js/runtime-main.1aaad756.js.map",
+    "static/js/2.5fd520de.chunk.js": "/dine/static/js/2.5fd520de.chunk.js",
+    "static/js/2.5fd520de.chunk.js.map": "/dine/static/js/2.5fd520de.chunk.js.map",
+    "static/js/3.9d551ee8.chunk.js": "/dine/static/js/3.9d551ee8.chunk.js",
+    "static/js/3.9d551ee8.chunk.js.map": "/dine/static/js/3.9d551ee8.chunk.js.map",
+    "index.html": "/dine/index.html",
+    "static/css/main.81c5be23.chunk.css.map": "/dine/static/css/main.81c5be23.chunk.css.map",
+    "static/js/2.5fd520de.chunk.js.LICENSE.txt": "/dine/static/js/2.5fd520de.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/dine/static/media/ready-bg-mobile.6dc46897.jpg",
+    "static/media/logo.f6ae2c4c.svg": "/dine/static/media/logo.f6ae2c4c.svg",
+    "static/media/menu-item1.7bd94a87.jpg": "/dine/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.81249e77.jpg": "/dine/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.22eddbf1.jpg": "/dine/static/media/menu-item3.22eddbf1.jpg",
+    "static/media/pattern-curve-top-left.8c7d9267.svg": "/dine/static/media/pattern-curve-top-left.8c7d9267.svg",
+    "static/media/pattern-curve-top-right.b7aa8298.svg": "/dine/static/media/pattern-curve-top-right.b7aa8298.svg",
+    "static/media/pattern-divide.bf6d0c5c.svg": "/dine/static/media/pattern-divide.bf6d0c5c.svg",
+    "static/media/pattern-divide2.58f19c0b.svg": "/dine/static/media/pattern-divide2.58f19c0b.svg",
+    "static/media/pattern-lines.df381b88.svg": "/dine/static/media/pattern-lines.df381b88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aaad756.js",
+    "static/js/2.5fd520de.chunk.js",
+    "static/css/main.81c5be23.chunk.css",
+    "static/js/main.de79caac.chunk.js"
+  ]
+}
